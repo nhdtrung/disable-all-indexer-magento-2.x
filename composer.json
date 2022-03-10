@@ -1,0 +1,22 @@
+{
+    "name": "gamechange/module-customindexer",
+    "description": "Customization reindex cron running time",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Trung Nguyen",
+            "email": "trung@goshopkey.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Gamechange\\CustomIndexer\\": ""
+        }
+    }
+}
