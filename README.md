@@ -1,1 +1,1 @@
-# disable-all-indexer-magento-2.x
+This module is used to disable all indexers running by cronjob.
